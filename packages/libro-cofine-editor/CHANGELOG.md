@@ -1,5 +1,19 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.6
+
+### Patch Changes
+
+- feat(markdown): prevent potential xss attacks caused by markdown syntax
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.6
+  - @difizen/libro-cofine-textmate@0.3.6
+  - @difizen/libro-code-editor@0.3.6
+  - @difizen/libro-common@0.3.6
+  - @difizen/libro-core@0.3.6
+  - @difizen/libro-lsp@0.3.6
+
 ## 0.3.5
 
 ### Patch Changes

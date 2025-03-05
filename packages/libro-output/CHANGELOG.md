@@ -1,5 +1,16 @@
 # @difizen/libro-output
 
+## 0.3.6
+
+### Patch Changes
+
+- feat(markdown): prevent potential xss attacks caused by markdown syntax
+
+- Updated dependencies []:
+  - @difizen/libro-rendermime@0.3.6
+  - @difizen/libro-common@0.3.6
+  - @difizen/libro-core@0.3.6
+
 ## 0.3.5
 
 ### Patch Changes
