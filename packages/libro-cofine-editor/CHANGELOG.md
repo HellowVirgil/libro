@@ -1,5 +1,19 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.8
+
+### Patch Changes
+
+- refactor: update kernel status description
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.8
+  - @difizen/libro-cofine-textmate@0.3.8
+  - @difizen/libro-code-editor@0.3.8
+  - @difizen/libro-common@0.3.8
+  - @difizen/libro-core@0.3.8
+  - @difizen/libro-lsp@0.3.8
+
 ## 0.3.7
 
 ### Patch Changes

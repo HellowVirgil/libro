@@ -1,5 +1,18 @@
 # @difizen/libro-search-codemirror-cell
 
+## 0.3.8
+
+### Patch Changes
+
+- refactor: update kernel status description
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.8
+  - @difizen/libro-code-cell@0.3.8
+  - @difizen/libro-common@0.3.8
+  - @difizen/libro-search@0.3.8
+  - @difizen/libro-core@0.3.8
+
 ## 0.3.7
 
 ### Patch Changes

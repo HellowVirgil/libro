@@ -1,5 +1,18 @@
 # libro-langauge-client
 
+## 0.3.8
+
+### Patch Changes
+
+- refactor: update kernel status description
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.8
+  - @difizen/libro-common@0.3.8
+  - @difizen/libro-kernel@0.3.8
+  - @difizen/libro-core@0.3.8
+  - @difizen/libro-lsp@0.3.8
+
 ## 0.3.7
 
 ### Patch Changes

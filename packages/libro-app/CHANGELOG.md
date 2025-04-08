@@ -1,5 +1,14 @@
 # @difizen/libro-output
 
+## 0.3.8
+
+### Patch Changes
+
+- refactor: update kernel status description
+
+- Updated dependencies []:
+  - @difizen/libro-jupyter@0.3.8
+
 ## 0.3.7
 
 ### Patch Changes

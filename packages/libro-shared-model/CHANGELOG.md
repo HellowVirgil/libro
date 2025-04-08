@@ -1,5 +1,14 @@
 # @difizen/libro-shared-model
 
+## 0.3.8
+
+### Patch Changes
+
+- refactor: update kernel status description
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.8
+
 ## 0.3.7
 
 ### Patch Changes

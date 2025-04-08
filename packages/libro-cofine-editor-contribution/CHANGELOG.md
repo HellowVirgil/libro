@@ -1,5 +1,11 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.8
+
+### Patch Changes
+
+- refactor: update kernel status description
+
 ## 0.3.7
 
 ### Patch Changes
