@@ -1,5 +1,11 @@
 # @difizen/libro-markdown
 
+## 0.3.7
+
+### Patch Changes
+
+- feat: add side cell run select default operation & update kernel status description
+
 ## 0.3.6
 
 ### Patch Changes

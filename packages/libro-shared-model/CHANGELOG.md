@@ -1,5 +1,14 @@
 # @difizen/libro-shared-model
 
+## 0.3.7
+
+### Patch Changes
+
+- feat: add side cell run select default operation & update kernel status description
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.7
+
 ## 0.3.6
 
 ### Patch Changes
