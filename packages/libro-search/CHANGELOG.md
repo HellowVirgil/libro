@@ -1,5 +1,16 @@
 # @difizen/libro-search
 
+## 0.3.10
+
+### Patch Changes
+
+- fix: repetitive execution problem on the right cell
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.10
+  - @difizen/libro-common@0.3.10
+  - @difizen/libro-core@0.3.10
+
 ## 0.3.9
 
 ### Patch Changes

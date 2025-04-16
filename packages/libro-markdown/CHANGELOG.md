@@ -1,5 +1,11 @@
 # @difizen/libro-markdown
 
+## 0.3.10
+
+### Patch Changes
+
+- fix: repetitive execution problem on the right cell
+
 ## 0.3.9
 
 ### Patch Changes

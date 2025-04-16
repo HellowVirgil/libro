@@ -1,5 +1,14 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.10
+
+### Patch Changes
+
+- fix: repetitive execution problem on the right cell
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-contribution@0.3.10
+
 ## 0.3.9
 
 ### Patch Changes

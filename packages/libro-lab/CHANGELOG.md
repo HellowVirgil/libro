@@ -1,5 +1,26 @@
 # @difizen/libro-lab
 
+## 0.3.10
+
+### Patch Changes
+
+- fix: repetitive execution problem on the right cell
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.10
+  - @difizen/libro-language-client@0.3.10
+  - @difizen/libro-prompt-cell@0.3.10
+  - @difizen/libro-ai-native@0.3.10
+  - @difizen/libro-sql-cell@0.3.10
+  - @difizen/libro-terminal@0.3.10
+  - @difizen/libro-jupyter@0.3.10
+  - @difizen/libro-kernel@0.3.10
+  - @difizen/libro-widget@0.3.10
+  - @difizen/libro-core@0.3.10
+  - @difizen/libro-l10n@0.3.10
+  - @difizen/libro-app@0.3.10
+  - @difizen/libro-toc@0.3.10
+
 ## 0.3.9
 
 ### Patch Changes
