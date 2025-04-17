@@ -1,5 +1,11 @@
 # @difizen/libro-l10n
 
+## 0.3.13
+
+### Patch Changes
+
+- fix: tracker created repeatly
+
 ## 0.3.12
 
 ### Patch Changes

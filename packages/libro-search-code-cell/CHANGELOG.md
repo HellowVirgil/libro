@@ -1,5 +1,18 @@
 # @difizen/libro-search-codemirror-cell
 
+## 0.3.13
+
+### Patch Changes
+
+- fix: tracker created repeatly
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.13
+  - @difizen/libro-code-cell@0.3.13
+  - @difizen/libro-common@0.3.13
+  - @difizen/libro-search@0.3.13
+  - @difizen/libro-core@0.3.13
+
 ## 0.3.12
 
 ### Patch Changes

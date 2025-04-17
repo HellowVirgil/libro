@@ -1,5 +1,18 @@
 # @difizen/libro-widget
 
+## 0.3.13
+
+### Patch Changes
+
+- fix: tracker created repeatly
+
+- Updated dependencies []:
+  - @difizen/libro-rendermime@0.3.13
+  - @difizen/libro-jupyter@0.3.13
+  - @difizen/libro-common@0.3.13
+  - @difizen/libro-kernel@0.3.13
+  - @difizen/libro-core@0.3.13
+
 ## 0.3.12
 
 ### Patch Changes

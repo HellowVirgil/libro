@@ -1,5 +1,14 @@
 # @difizen/libro-shared-model
 
+## 0.3.13
+
+### Patch Changes
+
+- fix: tracker created repeatly
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.13
+
 ## 0.3.12
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.13
+
+### Patch Changes
+
+- fix: tracker created repeatly
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.13
+  - @difizen/libro-cofine-textmate@0.3.13
+  - @difizen/libro-code-editor@0.3.13
+  - @difizen/libro-common@0.3.13
+  - @difizen/libro-core@0.3.13
+  - @difizen/libro-lsp@0.3.13
+
 ## 0.3.12
 
 ### Patch Changes

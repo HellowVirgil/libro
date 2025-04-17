@@ -1,5 +1,17 @@
 # @difizen/libro-docs
 
+## 0.3.13
+
+### Patch Changes
+
+- fix: tracker created repeatly
+
+- Updated dependencies []:
+  - @difizen/libro-terminal@0.3.13
+  - @difizen/libro-jupyter@0.3.13
+  - @difizen/libro-core@0.3.13
+  - @difizen/libro-lab@0.3.13
+
 ## 0.3.12
 
 ### Patch Changes
