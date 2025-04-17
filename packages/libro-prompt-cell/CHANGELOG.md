@@ -1,5 +1,18 @@
 # @difizen/libro-prompt-cell
 
+## 0.3.12
+
+### Patch Changes
+
+- fix: tracker config condition when getOrCreateView
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.12
+  - @difizen/libro-rendermime@0.3.12
+  - @difizen/libro-jupyter@0.3.12
+  - @difizen/libro-common@0.3.12
+  - @difizen/libro-core@0.3.12
+
 ## 0.3.11
 
 ### Patch Changes

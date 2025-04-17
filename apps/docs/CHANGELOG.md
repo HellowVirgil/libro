@@ -1,5 +1,17 @@
 # @difizen/libro-docs
 
+## 0.3.12
+
+### Patch Changes
+
+- fix: tracker config condition when getOrCreateView
+
+- Updated dependencies []:
+  - @difizen/libro-terminal@0.3.12
+  - @difizen/libro-jupyter@0.3.12
+  - @difizen/libro-core@0.3.12
+  - @difizen/libro-lab@0.3.12
+
 ## 0.3.11
 
 ### Patch Changes

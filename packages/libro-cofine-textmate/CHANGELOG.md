@@ -1,5 +1,14 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.12
+
+### Patch Changes
+
+- fix: tracker config condition when getOrCreateView
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.12
+
 ## 0.3.11
 
 ### Patch Changes

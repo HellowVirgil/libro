@@ -1,5 +1,17 @@
 # @difizen/libro-core
 
+## 0.3.12
+
+### Patch Changes
+
+- fix: tracker config condition when getOrCreateView
+
+- Updated dependencies []:
+  - @difizen/libro-shared-model@0.3.12
+  - @difizen/libro-code-editor@0.3.12
+  - @difizen/libro-virtualized@0.3.12
+  - @difizen/libro-common@0.3.12
+
 ## 0.3.11
 
 ### Patch Changes

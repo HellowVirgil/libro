@@ -1,5 +1,11 @@
 # @difizen/libro-code-editor
 
+## 0.3.12
+
+### Patch Changes
+
+- fix: tracker config condition when getOrCreateView
+
 ## 0.3.11
 
 ### Patch Changes
