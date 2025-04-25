@@ -1,5 +1,14 @@
 # @difizen/libro-shared-model
 
+## 0.3.16
+
+### Patch Changes
+
+- feat: add cellCount for fpsTracker
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.16
+
 ## 0.3.15
 
 ### Patch Changes

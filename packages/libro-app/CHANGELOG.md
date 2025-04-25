@@ -1,5 +1,14 @@
 # @difizen/libro-output
 
+## 0.3.16
+
+### Patch Changes
+
+- feat: add cellCount for fpsTracker
+
+- Updated dependencies []:
+  - @difizen/libro-jupyter@0.3.16
+
 ## 0.3.15
 
 ### Patch Changes

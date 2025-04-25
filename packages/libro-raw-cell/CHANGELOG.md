@@ -1,5 +1,16 @@
 # @difizen/libro-codemirror-raw-cell
 
+## 0.3.16
+
+### Patch Changes
+
+- feat: add cellCount for fpsTracker
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.16
+  - @difizen/libro-common@0.3.16
+  - @difizen/libro-core@0.3.16
+
 ## 0.3.15
 
 ### Patch Changes

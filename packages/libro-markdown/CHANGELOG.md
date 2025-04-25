@@ -1,5 +1,11 @@
 # @difizen/libro-markdown
 
+## 0.3.16
+
+### Patch Changes
+
+- feat: add cellCount for fpsTracker
+
 ## 0.3.15
 
 ### Patch Changes
