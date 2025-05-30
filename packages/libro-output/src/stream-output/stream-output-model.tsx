@@ -12,7 +12,7 @@ import {
   ViewInstance,
   ViewOption,
 } from '@difizen/mana-app';
-import { forwardRef } from 'react';
+import { forwardRef, useEffect, useState } from 'react';
 
 import '../index.less';
 
@@ -20,10 +20,17 @@ const StreamOutputModelRender = forwardRef<HTMLDivElement>(
   function StreamOutputModelRender(_props, ref) {
     const output = useInject<StreamOutputModel>(ViewInstance);
     const model = getOrigin(output);
+    const [refreshKey, setRefreshKey] = useState(new Date().getTime().toString());
     const factory = model.getRenderFactory();
+
+    useEffect(() => {
+      model.onUpdate(() => {
+        setRefreshKey(new Date().getTime().toString());
+      });
+    });
     if (factory) {
       const OutputRender = factory.render;
-      const children = <OutputRender model={model} />;
+      const children = <OutputRender model={model} key={refreshKey} />;
       return (
         <div ref={ref} className={'libro-stream-container'}>
           {children}
@@ -62,6 +69,7 @@ export class StreamOutputModel extends LibroOutputView implements BaseOutputView
       output_type: this.raw.output_type,
       name: this.raw.name,
       text: this.raw.text,
+      display_text: this.raw['display_text'],
     };
   }
 }
