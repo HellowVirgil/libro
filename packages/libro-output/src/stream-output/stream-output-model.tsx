@@ -4,7 +4,7 @@ import { LibroOutputView } from '@difizen/libro-core';
 import type { BaseOutputView, IOutputOptions } from '@difizen/libro-core';
 import { RenderMimeRegistry } from '@difizen/libro-rendermime';
 import type { IRenderMimeRegistry, IRendererFactory } from '@difizen/libro-rendermime';
-import { inject, transient } from '@difizen/mana-app';
+import { inject, prop, transient } from '@difizen/mana-app';
 import {
   getOrigin,
   useInject,
@@ -54,6 +54,9 @@ export class StreamOutputModel extends LibroOutputView implements BaseOutputView
     this.data = data as JSONObject;
     this.metadata = metadata;
   }
+  @prop()
+  isLargeOutputDisplay = true;
+
   getRenderFactory() {
     const renderMimeType = this.renderMimeRegistry.preferredMimeType(this);
     if (renderMimeType) {
