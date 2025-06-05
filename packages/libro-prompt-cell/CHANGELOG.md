@@ -1,5 +1,18 @@
 # @difizen/libro-prompt-cell
 
+## 0.3.18
+
+### Patch Changes
+
+- feat: improve large output render
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.18
+  - @difizen/libro-rendermime@0.3.18
+  - @difizen/libro-jupyter@0.3.18
+  - @difizen/libro-common@0.3.18
+  - @difizen/libro-core@0.3.18
+
 ## 0.3.17
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.18
+
+### Patch Changes
+
+- feat: improve large output render
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.18
+  - @difizen/libro-cofine-textmate@0.3.18
+  - @difizen/libro-code-editor@0.3.18
+  - @difizen/libro-common@0.3.18
+  - @difizen/libro-core@0.3.18
+  - @difizen/libro-lsp@0.3.18
+
 ## 0.3.17
 
 ### Patch Changes

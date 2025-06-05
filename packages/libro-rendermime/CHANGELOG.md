@@ -1,5 +1,16 @@
 # @difizen/libro-rendermime
 
+## 0.3.18
+
+### Patch Changes
+
+- feat: improve large output render
+
+- Updated dependencies []:
+  - @difizen/libro-markdown@0.3.18
+  - @difizen/libro-common@0.3.18
+  - @difizen/libro-core@0.3.18
+
 ## 0.3.17
 
 ### Patch Changes

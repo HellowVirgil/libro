@@ -1,5 +1,11 @@
 # @difizen/libro-markdown
 
+## 0.3.18
+
+### Patch Changes
+
+- feat: improve large output render
+
 ## 0.3.17
 
 ### Patch Changes

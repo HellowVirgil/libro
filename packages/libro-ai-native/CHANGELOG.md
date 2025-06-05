@@ -1,5 +1,15 @@
 # @difizen/libro-output
 
+## 0.3.18
+
+### Patch Changes
+
+- feat: improve large output render
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.18
+  - @difizen/libro-jupyter@0.3.18
+
 ## 0.3.17
 
 ### Patch Changes
