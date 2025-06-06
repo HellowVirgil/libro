@@ -1,5 +1,17 @@
 # @difizen/libro-toc
 
+## 0.3.19
+
+### Patch Changes
+
+- feat: improve text render performance
+
+- Updated dependencies []:
+  - @difizen/libro-rendermime@0.3.19
+  - @difizen/libro-markdown@0.3.19
+  - @difizen/libro-common@0.3.19
+  - @difizen/libro-core@0.3.19
+
 ## 0.3.18
 
 ### Patch Changes

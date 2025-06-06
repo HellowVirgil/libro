@@ -1,5 +1,15 @@
 # @difizen/libro-output
 
+## 0.3.19
+
+### Patch Changes
+
+- feat: improve text render performance
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.19
+  - @difizen/libro-jupyter@0.3.19
+
 ## 0.3.18
 
 ### Patch Changes

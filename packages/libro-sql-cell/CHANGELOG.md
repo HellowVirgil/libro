@@ -1,5 +1,17 @@
 # @difizen/libro-sql-cell
 
+## 0.3.19
+
+### Patch Changes
+
+- feat: improve text render performance
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.19
+  - @difizen/libro-rendermime@0.3.19
+  - @difizen/libro-jupyter@0.3.19
+  - @difizen/libro-common@0.3.19
+
 ## 0.3.18
 
 ### Patch Changes
