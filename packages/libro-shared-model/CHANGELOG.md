@@ -1,5 +1,14 @@
 # @difizen/libro-shared-model
 
+## 0.3.22
+
+### Patch Changes
+
+- feat: support expand and collapse toc
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.22
+
 ## 0.3.21
 
 ### Patch Changes

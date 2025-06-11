@@ -1,5 +1,15 @@
 # @difizen/libro-output
 
+## 0.3.22
+
+### Patch Changes
+
+- feat: support expand and collapse toc
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.22
+  - @difizen/libro-jupyter@0.3.22
+
 ## 0.3.21
 
 ### Patch Changes

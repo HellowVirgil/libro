@@ -1,5 +1,17 @@
 # @difizen/libro-toc
 
+## 0.3.22
+
+### Patch Changes
+
+- feat: support expand and collapse toc
+
+- Updated dependencies []:
+  - @difizen/libro-rendermime@0.3.22
+  - @difizen/libro-markdown@0.3.22
+  - @difizen/libro-common@0.3.22
+  - @difizen/libro-core@0.3.22
+
 ## 0.3.21
 
 ### Patch Changes

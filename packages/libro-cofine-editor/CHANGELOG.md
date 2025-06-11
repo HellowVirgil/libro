@@ -1,5 +1,19 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.22
+
+### Patch Changes
+
+- feat: support expand and collapse toc
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.22
+  - @difizen/libro-cofine-textmate@0.3.22
+  - @difizen/libro-code-editor@0.3.22
+  - @difizen/libro-common@0.3.22
+  - @difizen/libro-core@0.3.22
+  - @difizen/libro-lsp@0.3.22
+
 ## 0.3.21
 
 ### Patch Changes
