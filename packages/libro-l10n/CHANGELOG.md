@@ -1,5 +1,11 @@
 # @difizen/libro-l10n
 
+## 0.3.27
+
+### Patch Changes
+
+- fix: improve tooltip style
+
 ## 0.3.26
 
 ### Patch Changes

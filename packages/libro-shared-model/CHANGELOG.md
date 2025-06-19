@@ -1,5 +1,14 @@
 # @difizen/libro-shared-model
 
+## 0.3.27
+
+### Patch Changes
+
+- fix: improve tooltip style
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.27
+
 ## 0.3.26
 
 ### Patch Changes

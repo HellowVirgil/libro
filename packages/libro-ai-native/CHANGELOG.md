@@ -1,5 +1,15 @@
 # @difizen/libro-output
 
+## 0.3.27
+
+### Patch Changes
+
+- fix: improve tooltip style
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.27
+  - @difizen/libro-jupyter@0.3.27
+
 ## 0.3.26
 
 ### Patch Changes

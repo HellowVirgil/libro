@@ -1,5 +1,19 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.27
+
+### Patch Changes
+
+- fix: improve tooltip style
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-core@0.3.27
+  - @difizen/libro-cofine-textmate@0.3.27
+  - @difizen/libro-code-editor@0.3.27
+  - @difizen/libro-common@0.3.27
+  - @difizen/libro-core@0.3.27
+  - @difizen/libro-lsp@0.3.27
+
 ## 0.3.26
 
 ### Patch Changes
