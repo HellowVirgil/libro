@@ -1,5 +1,17 @@
 # @difizen/libro-docs
 
+## 0.3.26
+
+### Patch Changes
+
+- fix: conform to the nbformat specification
+
+- Updated dependencies []:
+  - @difizen/libro-terminal@0.3.26
+  - @difizen/libro-jupyter@0.3.26
+  - @difizen/libro-core@0.3.26
+  - @difizen/libro-lab@0.3.26
+
 ## 0.3.25
 
 ### Patch Changes

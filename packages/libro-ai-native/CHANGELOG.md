@@ -1,5 +1,15 @@
 # @difizen/libro-output
 
+## 0.3.26
+
+### Patch Changes
+
+- fix: conform to the nbformat specification
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.26
+  - @difizen/libro-jupyter@0.3.26
+
 ## 0.3.25
 
 ### Patch Changes

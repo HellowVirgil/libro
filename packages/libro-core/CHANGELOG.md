@@ -1,5 +1,17 @@
 # @difizen/libro-core
 
+## 0.3.26
+
+### Patch Changes
+
+- fix: conform to the nbformat specification
+
+- Updated dependencies []:
+  - @difizen/libro-shared-model@0.3.26
+  - @difizen/libro-code-editor@0.3.26
+  - @difizen/libro-virtualized@0.3.26
+  - @difizen/libro-common@0.3.26
+
 ## 0.3.25
 
 ### Patch Changes

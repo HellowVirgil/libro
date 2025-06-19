@@ -1,5 +1,14 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.26
+
+### Patch Changes
+
+- fix: conform to the nbformat specification
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-contribution@0.3.26
+
 ## 0.3.25
 
 ### Patch Changes

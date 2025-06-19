@@ -1,5 +1,17 @@
 # @difizen/libro-toc
 
+## 0.3.26
+
+### Patch Changes
+
+- fix: conform to the nbformat specification
+
+- Updated dependencies []:
+  - @difizen/libro-rendermime@0.3.26
+  - @difizen/libro-markdown@0.3.26
+  - @difizen/libro-common@0.3.26
+  - @difizen/libro-core@0.3.26
+
 ## 0.3.25
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @difizen/libro-common
 
+## 0.3.26
+
+### Patch Changes
+
+- fix: conform to the nbformat specification
+
 ## 0.3.25
 
 ### Patch Changes
