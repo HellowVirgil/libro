@@ -1,5 +1,14 @@
 # @difizen/libro-codemirror-markdown-cell
 
+## 0.3.29
+
+### Patch Changes
+
+- refactor: no editor mode use github css as hightlight
+
+- Updated dependencies []:
+  - @difizen/libro-cofine-editor-contribution@0.3.29
+
 ## 0.3.28
 
 ### Patch Changes

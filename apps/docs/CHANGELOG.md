@@ -1,5 +1,17 @@
 # @difizen/libro-docs
 
+## 0.3.29
+
+### Patch Changes
+
+- refactor: no editor mode use github css as hightlight
+
+- Updated dependencies []:
+  - @difizen/libro-terminal@0.3.29
+  - @difizen/libro-jupyter@0.3.29
+  - @difizen/libro-core@0.3.29
+  - @difizen/libro-lab@0.3.29
+
 ## 0.3.28
 
 ### Patch Changes

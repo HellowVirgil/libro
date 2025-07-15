@@ -1,5 +1,11 @@
 # @difizen/libro-markdown
 
+## 0.3.29
+
+### Patch Changes
+
+- refactor: no editor mode use github css as hightlight
+
 ## 0.3.28
 
 ### Patch Changes
