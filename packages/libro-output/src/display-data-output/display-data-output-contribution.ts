@@ -25,7 +25,7 @@ interface ImageProcessingConfig {
   sizeThreshold: number;
 }
 
-const IMAGE_URL_MIME_TYPE = 'application/vnd.libro.image-url';
+const IMAGE_URL_MIME_TYPE = 'image/vnd.libro.image-url';
 
 @singleton({ contrib: OutputContribution })
 export class DisplayDataOutputContribution implements OutputContribution {
