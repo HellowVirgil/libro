@@ -2,9 +2,10 @@ import { LibroLabModule } from '@difizen/libro-lab';
 import { ManaAppPreset, ManaComponents, ManaModule } from '@difizen/mana-app';
 
 import { LibroApp } from './app.js';
+import { ImageUploadTestService } from './image-upload-test.js';
 import './index.less';
 
-const BaseModule = ManaModule.create().register(LibroApp);
+const BaseModule = ManaModule.create().register(LibroApp, ImageUploadTestService);
 
 const App = (): JSX.Element => {
   return (
