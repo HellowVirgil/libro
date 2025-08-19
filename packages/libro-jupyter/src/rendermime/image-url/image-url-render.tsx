@@ -6,7 +6,7 @@ import { useInject } from '@difizen/mana-app';
 import { useEffect, useRef } from 'react';
 import type { FC } from 'react';
 
-export const imageUrlMimeTypes = ['application/vnd.libro.image-url'];
+export const imageUrlMimeTypes = ['image/vnd.libro.image-url'];
 
 /**
  * 图片 URL 渲染组件
