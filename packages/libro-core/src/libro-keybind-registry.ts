@@ -37,6 +37,7 @@ export class LibroKeybindRegistry extends KeybindingRegistry {
         this.keySequence = [];
         (this as any).emitter.fire(match);
       }
+      return;
     }
     super.run(event);
   }
