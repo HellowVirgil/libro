@@ -90,12 +90,16 @@ export const LibroContentComponent = memo(function LibroContentComponent() {
     libroViewContentRef,
     instance.libroViewTracker.isEnabledSpmReporter,
     (payload) => {
-      const fpsTracker = instance.libroViewTracker.getOrCreateTrackers({ type: 'fps' });
+      const fpsTracker = instance.libroViewTracker.getOrCreateTrackers({
+        type: 'fps',
+        id: instance.model.options['modelId'] + 'fps',
+      });
       fpsTracker['avgFPS'] = payload.summary.avgFPS;
       fpsTracker['maxFrameTime'] = payload.summary.maxFrameTime;
       fpsTracker['totalDropped'] = payload.summary.totalDropped;
       fpsTracker['extra'] = payload.frames;
       fpsTracker['cells'] = instance.model.cells.length;
+      fpsTracker['size'] = instance.model.currentFileContents?.size;
       instance.libroViewTracker.tracker(fpsTracker);
     },
   );
@@ -1041,14 +1045,12 @@ export class LibroView extends BaseView implements NotebookView {
           ExecutableCellModel.is(selectedCell.model)
         ) {
           selectedCell.clearExecution();
-          selectedCell.model.executing = false;
           selectedCell.model.hasOutputHidden = false;
         }
       }
     } else {
       if (ExecutableCellView.is(cell) && ExecutableCellModel.is(cell.model)) {
         cell.clearExecution();
-        cell.model.executing = false;
         cell.model.hasOutputHidden = false;
       }
     }
@@ -1060,7 +1062,6 @@ export class LibroView extends BaseView implements NotebookView {
     for (const cell of this.model.cells) {
       if (ExecutableCellView.is(cell) && ExecutableCellModel.is(cell.model)) {
         cell.clearExecution();
-        cell.model.executing = false;
         cell.model.hasOutputHidden = false;
       }
     }
