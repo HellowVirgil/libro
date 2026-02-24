@@ -1,5 +1,11 @@
 # @difizen/libro-l10n
 
+## 0.3.58
+
+### Patch Changes
+
+- restore reset kernel status
+
 ## 0.3.57
 
 ### Patch Changes

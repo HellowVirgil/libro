@@ -1,5 +1,29 @@
 # @difizen/libro-jupyter
 
+## 0.3.58
+
+### Patch Changes
+
+- restore reset kernel status
+
+- Updated dependencies []:
+  - @difizen/libro-search-code-cell@0.3.58
+  - @difizen/libro-language-client@0.3.58
+  - @difizen/libro-cofine-editor@0.3.58
+  - @difizen/libro-markdown-cell@0.3.58
+  - @difizen/libro-code-editor@0.3.58
+  - @difizen/libro-codemirror@0.3.58
+  - @difizen/libro-rendermime@0.3.58
+  - @difizen/libro-code-cell@0.3.58
+  - @difizen/libro-raw-cell@0.3.58
+  - @difizen/libro-common@0.3.58
+  - @difizen/libro-kernel@0.3.58
+  - @difizen/libro-output@0.3.58
+  - @difizen/libro-search@0.3.58
+  - @difizen/libro-core@0.3.58
+  - @difizen/libro-l10n@0.3.58
+  - @difizen/libro-lsp@0.3.58
+
 ## 0.3.57
 
 ### Patch Changes

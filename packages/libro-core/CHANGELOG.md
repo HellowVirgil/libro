@@ -1,5 +1,17 @@
 # @difizen/libro-core
 
+## 0.3.58
+
+### Patch Changes
+
+- restore reset kernel status
+
+- Updated dependencies []:
+  - @difizen/libro-shared-model@0.3.58
+  - @difizen/libro-code-editor@0.3.58
+  - @difizen/libro-virtualized@0.3.58
+  - @difizen/libro-common@0.3.58
+
 ## 0.3.57
 
 ### Patch Changes
