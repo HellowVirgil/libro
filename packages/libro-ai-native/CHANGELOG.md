@@ -1,5 +1,15 @@
 # @difizen/libro-output
 
+## 0.3.58
+
+### Patch Changes
+
+- restore reset kernel status
+
+- Updated dependencies []:
+  - @difizen/libro-code-editor@0.3.58
+  - @difizen/libro-jupyter@0.3.58
+
 ## 0.3.57
 
 ### Patch Changes

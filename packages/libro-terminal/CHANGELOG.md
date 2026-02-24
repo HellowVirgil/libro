@@ -1,5 +1,16 @@
 # @difizen/libro-widget
 
+## 0.3.58
+
+### Patch Changes
+
+- restore reset kernel status
+
+- Updated dependencies []:
+  - @difizen/libro-common@0.3.58
+  - @difizen/libro-kernel@0.3.58
+  - @difizen/libro-core@0.3.58
+
 ## 0.3.57
 
 ### Patch Changes
